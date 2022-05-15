@@ -28,3 +28,6 @@
 
 ## 오피니언 마이닝
 [참고 사이트](https://iamdaisy.tistory.com/30?category=620658)
+
+## 웹 마이닝
+[참고 사이트](https://iamdaisy.tistory.com/30?category=620658)
