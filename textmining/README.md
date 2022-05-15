@@ -7,3 +7,15 @@
 
 문서 자료를 모델 학습용 데이터와 검증 데이터로 분리하고, 학습용 데이터를 사용해서 모델을 개발하고, 검증용 데이터를 사용해서 개발된 모델의 성능을 평가한다.
 
+## 문서 군집화(clustering)
+![image](https://user-images.githubusercontent.com/102650331/168456057-ce2ab6af-3e93-4490-b440-d47e6e686f3c.png)
+
+![image](https://user-images.githubusercontent.com/102650331/168456077-7c73d538-ead3-4bf6-9657-7b8204f1b69d.png)
+
+![image](https://user-images.githubusercontent.com/102650331/168456103-fef6a1e2-754f-49b8-892a-55ba1eb799d7.png)
+
+![image](https://user-images.githubusercontent.com/102650331/168456134-23f0cfd9-aeae-4b81-80a9-1b133c4e8a4b.png)
+
+![image](https://user-images.githubusercontent.com/102650331/168456144-5e49bb44-e65f-47f6-a925-9039f6a96d56.png)
+
+
